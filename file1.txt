@@ -1,2 +1,1 @@
-3 way merge commit 2
-
+rebase conflicts because of main changes
