@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 rebase conflicts because of main changes
+=======
+rebase conflicts demo commit 1
+
+>>>>>>> 1701939 (rebase conflict commit 1)
